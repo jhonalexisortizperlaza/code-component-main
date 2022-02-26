@@ -1,0 +1,39 @@
+@media screen and (max-width: 1000px) {
+    .main {
+        .card {
+            width: 30%;
+        }
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .main {
+        .card {
+            width: 35%;
+        }
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .main {
+        .card {
+            width: 40%;
+        }
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .main {
+        .card {
+            width: 60%;
+        }
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .main {
+        .card {
+            width: 85%;
+        }
+    }
+}
